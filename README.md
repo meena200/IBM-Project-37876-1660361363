@@ -1,6 +1,13 @@
 Smart Waste Management System For Metropolitan Cities
 Category: Internet Of Things
 
+TEAM ID:PNT2022TMID34358
+
+TEAM LEADER:MEENAKSHI.R                                                                                                                                                   
+TEAM MEMBER:KAVITHA.S                                                                                                                                                     
+TEAM MEMBER:MARY JACKY RUHISHA.S                                                                                                                                         
+TEAM MEMBER:LIBISHA.K.J                                                                                                                                                   
+
 Skills Required:
 
 Python,IOT Cloud Platform ,IBM Cloud,Node- RED,IBM IoT Platform,IBM Nodered,IBM Cloudant DB
